@@ -8,7 +8,7 @@ spring:
     # Excelente el detalle de createDatabaseIfNotExist=true
     url: jdbc:mysql://localhost:3306/db_citas?createDatabaseIfNotExist=true
     username: root
-    password: mysql
+    password: 123456
     driver-class-name: com.mysql.cj.jdbc.Driver
   jpa:
     hibernate:
@@ -27,4 +27,4 @@ eureka:
 
 security:
   jwt:
-    secret-key: "MediSoftClaveSecretaSuperSeguraYMuyLargaParaPoderFirmarLosTokensJWT"
+    secret-key: MI_CLAVE_SECRETA_MEDISOFT_123456789
