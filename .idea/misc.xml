@@ -9,6 +9,11 @@
         <option value="$PROJECT_DIR$/ms-pacientes/ms-pacientes/pom.xml" />
         <option value="$PROJECT_DIR$/eureka-server/eureka-server/pom.xml" />
         <option value="$PROJECT_DIR$/ms-utenticacion/ms-utenticacion/pom.xml" />
+        <option value="$PROJECT_DIR$/api-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/ms-citas/pom.xml" />
+        <option value="$PROJECT_DIR$/ms-pacientes/pom.xml" />
+        <option value="$PROJECT_DIR$/ms-utenticacion/pom.xml" />
       </list>
     </option>
   </component>

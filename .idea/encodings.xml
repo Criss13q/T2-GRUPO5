@@ -2,9 +2,14 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/api-gateway/api-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api-gateway/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eureka-server/eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ms-citas/ms-citas/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-citas/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ms-pacientes/ms-pacientes/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-pacientes/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ms-utenticacion/ms-utenticacion/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-utenticacion/src/main/java" charset="UTF-8" />
   </component>
 </project>
