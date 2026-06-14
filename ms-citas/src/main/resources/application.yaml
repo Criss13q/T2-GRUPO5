@@ -5,9 +5,10 @@ spring:
   application:
     name: ms-citas
   datasource:
+    # Excelente el detalle de createDatabaseIfNotExist=true
     url: jdbc:mysql://localhost:3306/db_citas?createDatabaseIfNotExist=true
     username: root
-    password: 1234
+    password: mysql
     driver-class-name: com.mysql.cj.jdbc.Driver
   jpa:
     hibernate:
@@ -23,3 +24,7 @@ eureka:
       defaultZone: http://localhost:8761/eureka/
     register-with-eureka: true
     fetch-registry: true
+
+security:
+  jwt:
+    secret-key: "MediSoftClaveSecretaSuperSeguraYMuyLargaParaPoderFirmarLosTokensJWT"
